@@ -1,7 +1,7 @@
 ### Flutter Redhat Firebase Integration With Stream Builder
 
 <img alt="redhat logo" src="https://www.capgemini.com/wp-content/uploads/2019/04/Logo-RedHat-A-Color-RGB.png" height=200px /></a>                 
-<img alt="flutter logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XUYDlGmpzLvRUixZN1XNnV853a5_GYb0mw&usqp=CAU" height=55px /></a>
+<img alt="flutter logo" src="https://miro.medium.com/max/1838/1*PblQquEXxZ6U1BmBNlEprA.jpeg" height=55px /></a>
 <img alt="flutter logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Firebase_Logo.png/1200px-Firebase_Logo.png" height=70px /></a>" 
 
 <img alt="flutter logo" src="https://user-images.githubusercontent.com/47140660/95116711-14fabc80-0765-11eb-90cf-8fc702c5e852.png" height=450px /></a>" 
