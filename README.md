@@ -1,7 +1,7 @@
-### Flutter_Redhat_Firebase_integration With Stream Builder
+### Flutter Redhat Firebase Integration With Stream Builder
 
 <img alt="redhat logo" src="https://www.capgemini.com/wp-content/uploads/2019/04/Logo-RedHat-A-Color-RGB.png" height=200px /></a>                 
-<img alt="flutter logo" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" height=55px /></a>
+<img alt="flutter logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XUYDlGmpzLvRUixZN1XNnV853a5_GYb0mw&usqp=CAU" height=55px /></a>
 <img alt="flutter logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Firebase_Logo.png/1200px-Firebase_Logo.png" height=70px /></a>" 
 
 <img alt="flutter logo" src="https://user-images.githubusercontent.com/47140660/95116711-14fabc80-0765-11eb-90cf-8fc702c5e852.png" height=450px /></a>" 
@@ -19,3 +19,13 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
              
+
+<p align="center">
+<a href="https://twitter.com/akash_mittal18" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="akash_mittal18" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/akash-mittal-bb063417a" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="www.linkedin.com/in/akash-mittal-bb063417a" height="30" width="30" /></a>
+<a href="https://instagram.com/akash_mittal18" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="akash_mittal18" height="30" width="30" /></a>
+<a href="mailto:akash.mittal898@gmail.com" target="blank"><img align="center"  src="https://img.icons8.com/color/48/000000/gmail.png" alt="akash.mittal898" height="30" width="30" /></a>
+<a href="https://medium.com/@akashmittal18" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/medium-monogram.png" alt="akashmittal18" height="30" width="30" /></a>  
+<a href="https://dev.to/akashmittal18" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Akash Mittal's DEV Profile" height="30" width="30">
+</a>
+</p>
